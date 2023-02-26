@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Lakhera</h1>
-<h3 align="center">Flutter Dev. From India.</h3>
-
-- 💬 Ask me about **DSA, Flutter**
-
-- 📫 How to reach me **vaibhavlakhera1729@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/twt_vaibhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twt_vaibhav" height="30" width="40" /></a>
