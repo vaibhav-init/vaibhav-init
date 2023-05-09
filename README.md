@@ -16,4 +16,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vaibhav-init&show_icons=true&locale=en" alt="vaibhav-init" /></p>
 
 
+<h3 align="left">Snake :)</h3>
+
 ![snake gif](https://github.com/vaibhav-init/vaibhav-init/blob/output/github-contribution-grid-snake.gif)
