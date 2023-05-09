@@ -8,4 +8,5 @@
 <h3>Snake:)</h3>
 
 
-![snake gif](https://github.com/vaibhav-init/vaibhav-init/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/vaibhav-init/vaibhav-init/blob/output/github-contribution-grid-snake.svg)
+
