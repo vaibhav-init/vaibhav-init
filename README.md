@@ -1,3 +1,5 @@
-BTW I use ARCH
+## GitHub Space Shooter
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-init&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&show_icons=true&bg_color=161B22&locale=en&layout=compact" alt="vaibhav-init" /></p>
+<p align="center">
+  <img src="./game.gif" width="800">
+</p>
